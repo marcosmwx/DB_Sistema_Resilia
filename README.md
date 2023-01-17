@@ -19,7 +19,7 @@ Matricula, Disciplinas, Area, Turma e Professor
 
 ### ⇨ Quais são os principais campos e tipos?
 
-id_aluno, curso_id, turma_id sao do tipo Int PK
+* id_aluno, curso_id, turma_id sao do tipo Int PK
 * nome ( em geral) Varchar ( com varios tamanhos diferentes para cada caso)
 
 
