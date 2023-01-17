@@ -37,5 +37,5 @@ Matricula, Disciplinas, Area, Turma e Professor
 ⇨ Preparar os scripts que vão criar o banco de dados proposto e adicionar uma pasta chamada SQL com os arquivos.
 
 ## PRINT do Modelo
-![dbResiliaMod4Individual](https://user-images.githubusercontent.com/87791042/212783716-02330741-ecd5-4bc1-8805-623475cd365b.png)
- 
+ ![schemadbresilia](https://user-images.githubusercontent.com/87791042/212911722-84d0582e-9bf0-43e7-b541-940ee1bd3f08.png)
+
